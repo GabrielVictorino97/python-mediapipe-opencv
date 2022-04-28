@@ -32,5 +32,5 @@ while True:
 
         cv2.putText(image, str(upCount), (150,150), cv2.FONT_HERSHEY_PLAIN, 12, (0,255,0), 12)
     
-    cv2.imshow("Contando", image)
+    cv2.imshow("Contandoo", image)
     cv2.waitKey(1)
